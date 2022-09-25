@@ -1,0 +1,26 @@
+<EMPLOYEES>
+    <EMPLOYEE ID= "23">
+        <NAME>John Carter</NAME>
+        <ADMISSION_DATE>
+            <DATE_OF_BIRTH>25</DATE_OF_BIRTH>
+            <DATE_OF_MONTH>12</DATE_OF_MONTH>
+            <DATE_OF_YEAR>2015</DATE_OF_YEAR>
+        </ADMISSION_DATE>
+    </EMPLOYEE>
+    <EMPLOYEE ID= "29">
+        <NAME>Bob Marshal </NAME>
+        <ADMISSION_DATE>
+            <DATE_OF_BIRTH>13</DATE_OF_BIRTH>
+            <DATE_OF_MONTH>01</DATE_OF_MONTH>
+            <DATE_OF_YEAR>1999</DATE_OF_YEAR>
+        </ADMISSION_DATE>
+    </EMPLOYEE>
+    <EMPLOYEE ID= "35">
+        <NAME>Clark Kent</NAME>
+        <ADMISSION_DATE>17_06_2005
+            <DATE_OF_BIRTH>17</DATE_OF_BIRTH>
+            <DATE_OF_MONTH>06</DATE_OF_MONTH>
+            <DATE_OF_YEAR>2005</DATE_OF_YEAR>
+        </ADMISSION_DATE>
+    </EMPLOYEE>
+</EMPLOYEES>
